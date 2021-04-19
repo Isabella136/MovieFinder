@@ -1,0 +1,2 @@
+Time required for filtering set: 12 milliseconds
+Time required for filtering graph: 1 milliseconds
